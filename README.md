@@ -27,4 +27,4 @@ Este scan hecho para DNS scan te permitira saber cierta informacion de alguna DN
 
 # 🛎 - ¿Fallas, Sugerencias o Ayuda?
 
-Conctactame en Whatsapp como 
+Conctactame en Whatsapp como +1 (561) 421-3457
