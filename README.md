@@ -1,6 +1,6 @@
 # 💥 - xFullCode Tool
 
-Esta herramienta te ayudara en varias tareas - xNetting / xFullCode
+Esta herramienta te ayudara a escanear urls o dns - xNetting
 
 # ♟ - Uso 
 
