@@ -1,4 +1,4 @@
-# 💥 - xFullCode Tool
+# 💥 - KrwScanner
 
 Esta herramienta te ayudara a escanear urls o dns - xNetting
 
